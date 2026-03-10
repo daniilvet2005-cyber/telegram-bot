@@ -1,0 +1,4 @@
+PassengerEnabled on
+PassengerAppRoot /home/r299226/songbot_app
+PassengerBaseURI /sb
+PassengerPython /home/r299226/virtualenv/songbot_app/3.10/bin/python
